@@ -8,7 +8,7 @@ This repository documents my learning journey during the Summer of Code 2025 (SO
 
 ```
 ├── README.md
-├── CS50P_Basics/
+├── Python_Basics/
 │   ├── variables.py
 │   ├── loops.py
 │   ├── functions.py
@@ -29,7 +29,7 @@ This repository documents my learning journey during the Summer of Code 2025 (SO
 
 ## 📚 Contents
 
-### 🔹 CS50P_Basics/
+### 🔹 Python_Basics/
 Contains beginner-level Python scripts based on topics from the CS50P course:
 - Variables and Data Types
 - Loops and Conditionals
@@ -51,12 +51,7 @@ Includes basic visualization code:
 - Line plots
 - Bar charts
 
-### 🔹 Resources/
-Contains:
-- `MODULES.docx`: Learning roadmap and reference documentation
-- `links.txt`: YouTube tutorials and documentation used
-
-### 🔹 Learning_Report.pdf
+### 🔹 Mid term report.pdf
 Detailed report documenting:
 - My learning progress
 - Weekly breakdown
