@@ -25,7 +25,7 @@ This repository documents my learning journey during the Summer of Code 2025 (SO
 ├── Resources/
 │   ├── MODULES.docx
 │   └── links.txt
-├── Learning_Report.docx
+├── Mid term report.pdf
 ```
 
 ---
