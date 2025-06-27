@@ -22,9 +22,6 @@ This repository documents my learning journey during the Summer of Code 2025 (SO
 ├── Matplotlib_Practice/
 │   ├── line_plot.py
 │   ├── bar_chart.py
-├── Resources/
-│   ├── MODULES.docx
-│   └── links.txt
 ├── Mid term report.pdf
 ```
 
